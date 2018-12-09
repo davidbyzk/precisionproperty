@@ -1,1 +1,5 @@
 *.pyc
+/media
+venv
+/static
+db.sqlite3
